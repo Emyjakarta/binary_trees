@@ -13,9 +13,10 @@ void binary_tree_delete(binary_tree_t *tree)
 	}
 
 	/* Using Post-order traversal to recursively delete nodes */
-	/* *
-	 * This ensures that all child nodes are 
-	 * deleted before parent nodes */
+	/**
+	 * This ensures that all child nodes are
+	 * deleted before parent nodes
+	 */
 	binary_tree_delete(tree->left);
 	binary_tree_delete(tree->right);
 
