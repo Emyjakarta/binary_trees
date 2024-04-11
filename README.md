@@ -10,7 +10,6 @@ A binary tree is a tree-based data structure where each node has at most two chi
 * Efficient searching and sorting
 * Easy to implement
 * Can be used to represent a variety of data structures
-
 ## Disadvantages of Binary Trees
 
 * Can become unbalanced, which can affect performance
