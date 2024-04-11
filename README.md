@@ -1,4 +1,4 @@
-<img src="![alt text](Picture1-1.jpg)>
+![alt text](Picture1-1.jpg)>
 # Binary Trees
 
 ## Introduction
