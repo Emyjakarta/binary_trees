@@ -50,7 +50,6 @@ There are three main traversal methods for binary trees:
 **Storing hierarchical data**: Binary trees are used to store hierarchical data, such as file systems and organizational charts.
 **Implementing priority queues**: Binary heaps are used to implement priority queues, which allow elements to be inserted and removed based on their priority.
 
-
 ## Implementation
 
 The binary tree data structure is defined as follows:
