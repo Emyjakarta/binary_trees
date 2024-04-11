@@ -151,3 +151,4 @@ This function performs a left rotation on the binary tree.
 ### 23. `binary_tree_rotate_right(binary_tree_t *tree)`
 This function performs a right rotation on the binary tree.
 
+This project is made as alx SWE cohort 21 and done by 
