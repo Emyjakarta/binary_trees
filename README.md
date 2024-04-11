@@ -80,7 +80,6 @@ The `binary_tree_t` structure represents a node in the binary tree, with the fol
 - `right`: A pointer to the right child node.
 
 ## Functions
-
 ### 0. `binary_tree_node(binary_tree_t *parent, int value)`
 This function creates a new binary tree node with the given value and parent.
 
