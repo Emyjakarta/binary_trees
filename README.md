@@ -1,6 +1,5 @@
 ![alt text](Picture1-1.jpg)
 # Binary Trees
-
 ## Introduction
 Binary trees are a fundamental data structure in computer science, where each node has at most two child nodes, typically referred to as the left child and the right child. They are widely used in various algorithms and applications, such as search, sorting, and file systems.
 
